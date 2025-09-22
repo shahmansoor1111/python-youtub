@@ -110,8 +110,13 @@ import numpy as np
 # print(n[2:5])
 
 # ////////1d aray with step
-n = np.array([1,2,3,4,5,6,7,8,9,10])
-print(n[0:8:2])
+# n = np.array([1,2,3,4,5,6,7,8,9,10])
+# print(n[0:8:2])
+
+
+n = np.array([1,2,3,4,5,6])
+print(n[0:])
+# .......array shape numpy
 
 
 
